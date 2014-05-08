@@ -1,0 +1,8 @@
+Fahmon: Initializing....
+Fahmon: Checking mode 800x608@16.
+Fahmon: SDL screen created successfully.
+Fahmon: IMG_Init successfully initialized.
+Fahmon: SDL_ttf True Type Font support initialized.
+Fahmon: SDL_Mixer audio initialized.
+Fahmon: Initialized successfully.
+Fahmon: Quit successfully.

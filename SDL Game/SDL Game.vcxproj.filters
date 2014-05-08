@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="SDLWindow">
+      <UniqueIdentifier>{dc532787-8319-4166-85dd-0531b80196a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDLWindow\State">
+      <UniqueIdentifier>{094e4a47-01e8-4265-a36a-0c915426428c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDLWindow\State\States">
+      <UniqueIdentifier>{e835731b-5803-414d-97d9-30fdd797d793}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Object">
+      <UniqueIdentifier>{30bd4f77-5671-4aaf-8c4e-8644aefb3c58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Object\Objects">
+      <UniqueIdentifier>{e90717ae-ad3f-451b-ae5e-501fe28fa469}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SDLWindow.cpp">
+      <Filter>SDLWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>SDLWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="Util.cpp">
+      <Filter>SDLWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="State.cpp">
+      <Filter>SDLWindow\State</Filter>
+    </ClCompile>
+    <ClCompile Include="Branding.cpp">
+      <Filter>SDLWindow\State\States</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>SDLWindow\State\States</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOver.cpp">
+      <Filter>SDLWindow\State\States</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>SDLWindow\State\States</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Game Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Game Object\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Font.cpp">
+      <Filter>Game Object\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>Game Object\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Game Object\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Game Object\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SDLWindow.h">
+      <Filter>SDLWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>SDLWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="Util.h">
+      <Filter>SDLWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="State.h">
+      <Filter>SDLWindow\State</Filter>
+    </ClInclude>
+    <ClInclude Include="Branding.h">
+      <Filter>SDLWindow\State\States</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>SDLWindow\State\States</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOver.h">
+      <Filter>SDLWindow\State\States</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>SDLWindow\State\States</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Game Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Game Object\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Font.h">
+      <Filter>Game Object\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Image.h">
+      <Filter>Game Object\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Game Object\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Game Object\Objects</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

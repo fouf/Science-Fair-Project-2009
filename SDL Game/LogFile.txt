@@ -1,0 +1,8 @@
+SDL Platformer: Initializing....
+SDL Platformer: Checking mode 800x608@16.
+SDL Platformer: SDL screen created successfully.
+SDL Platformer: IMG_Init successfully initialized.
+SDL Platformer: SDL_ttf True Type Font support initialized.
+SDL Platformer: SDL_Mixer audio initialized.
+SDL Platformer: Initialized successfully.
+SDL Platformer: Quit successfully.
